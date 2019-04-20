@@ -1,9 +1,12 @@
 # RatsignalSysCopy
 
-A ratting utility for automatically copying the system name to your clipboard for every incoming RatSignal.
+A fuel ratting utility for automatically copying the system name to your clipboard for every incoming RatSignal.
 Works with HexChat, Python 3, and Windows.
 
 This will overwrite whatever is in your clipboard each time a new RatSignal comes in.
+
+The Fuel Rats are a player group within Elite: Dangerous that perform rescue operations for players who run out of fuel.
+Learn more at: fuelrats.com
 
 ## Requirements
 
