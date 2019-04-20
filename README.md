@@ -5,20 +5,19 @@ Works with HexChat, Python 3, and Windows.
 
 This will overwrite whatever is in your clipboard each time a new RatSignal comes in.
 
-The Fuel Rats are a player group within Elite: Dangerous that perform rescue operations for players who run out of fuel.
-Learn more at: fuelrats.com
+The Fuel Rats are a player group within Elite: Dangerous that perform rescue operations for players who run out of fuel.  
+Learn more at: fuelrats.com  
 
 ## Requirements
 
-HexChat
-- https://hexchat.github.io/
-Python 3
-- https://www.python.org/downloads/
+- HexChat: https://hexchat.github.io/
+- Python 3: https://www.python.org/downloads/
 
 ## Installation
 
-To install simply copy RatsignalSysCopy.py to your HexChat addons folder and restart HexChat.
-Do **not** copy hexchat.py or test.py, they are for testing only :)
+To install simply copy RatsignalSysCopy.py to your HexChat addons folder and restart HexChat.  
+Do **not** copy hexchat.py or test.py, they are for testing only :)  
+
 By default location of the HexChat addons folder is: `C:\Users\YourUserName\AppData\Roaming\HexChat\addons`
 - Replace YourUserName with your windows user name
 
